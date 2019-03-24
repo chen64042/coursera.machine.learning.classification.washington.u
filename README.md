@@ -4,7 +4,8 @@
 2. Initially (week 1), still use Graphlab to complete the homework and re-write it in Scikit-learn etc
 3. Eventually (week 2 and onward ...), use Scikit-learn only
 4. Have a python.practice notebook in each week to play around different things
-5. Learn how to write OO Python and reuse codes in notebook
+5. Learn about matplotlab
+6. Learn how to write OO Python and reuse codes in notebook
 
 ## Install scikit-learn and other packages
 1. Open a termnial, type <code>source activate gl-env</code>. This enters anaconda environment for this class. The environment should have been configured properly in class 1, the foundation
